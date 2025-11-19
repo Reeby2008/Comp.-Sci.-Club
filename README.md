@@ -1,1 +1,1 @@
-# Comp.-Sci.-Club
+# Comp-Sci-Club
